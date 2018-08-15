@@ -1,0 +1,7 @@
+kosarEnabled=true
+webserverport=9091
+rdbms=oracle
+rdbmsdriver=oracle.jdbc.driver.OracleDriver
+#cores=10.0.0.210:8888;10.0.0.220:8888;10.0.0.175:8888;10.0.0.230:8888;10.0.0.235:8888;10.0.0.245:8888;10.0.0.107:8888;10.0.0.119:8888
+cores=10.0.0.210:8888
+initconnections=100
